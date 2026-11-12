@@ -29,4 +29,4 @@ Joins, CTEs, subqueries, aggregations, window functions, and date analysis
 - Review-score averages are per review row, and some orders have multiple review rows.
 
 ## Project status
-In Progress
+Completed
